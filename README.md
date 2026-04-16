@@ -28,7 +28,7 @@
 
 ### Características Planeadas
 
-- Interfaz simple (posiblemente CLI o script batch)
+- Interfaz simple
 - Deshabilitar apps del sistema que consumen recursos
 - Eliminar aplicaciones
 - Ajustes de animaciones y rendimiento
